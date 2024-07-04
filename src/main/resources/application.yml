@@ -1,0 +1,11 @@
+mongodb:
+  uri: mongodb://110.41.191.123
+  database: test
+  collection: testCollection
+
+spring:
+  data:
+    mongodb:
+      host: 110.41.191.123
+      port: 27017
+      database: test
